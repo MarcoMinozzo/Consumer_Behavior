@@ -1,4 +1,4 @@
-#**Metrics collected:**
+# Metrics collected:
 
 1. SESSION_ID: Unique identifier of the session.
 2. Click_Image: Indicator of whether the user clicked on an image (0 or 1).
@@ -15,7 +15,7 @@
 
 These metrics help to understand user behavior while browsing and purchasing on an e-commerce platform. 
 
-#**Predictive Model**
+# Predictive Model
 
 We are going to implement the first stage of this entire Digital Marketing process, which would be the construction of a predictive model. 
 
